@@ -1,6 +1,7 @@
-🧠 PsycheFlow — Plataforma Inteligente para Gestão Psicológica
+# 🧠 PsycheFlow — Plataforma Inteligente para Gestão Psicológica
+<img width="1572" height="560" alt="Screenshot_1" src="https://github.com/user-attachments/assets/314ef51e-cb8f-4d2c-85cb-a71435436349" />
 
-# PsycheFlow
+## PsycheFlow
 
 Plataforma moderna para gestão de clínicas psicológicas, acompanhamento terapêutico e controle financeiro.
 Desenvolvida com foco em performance, experiência do usuário e arquitetura escalável.
