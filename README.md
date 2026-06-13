@@ -3,8 +3,6 @@
 
 ## PsycheFlow
 
-# PsycheFlow – Resumo
-
 O **PsycheFlow** é uma plataforma web moderna para gestão de clínicas psicológicas, reunindo em um só lugar:
 
 - **Gestão de pacientes** (cadastro, histórico, evolução clínica)
