@@ -3,35 +3,37 @@
 
 ## PsycheFlow
 
-O PsycheFlow é uma plataforma web moderna para gestão de clínicas psicológicas, reunindo em um só lugar:
+# PsycheFlow – Resumo
 
-Gestão de pacientes (cadastro, histórico, evolução clínica)
+O **PsycheFlow** é uma plataforma web moderna para gestão de clínicas psicológicas, reunindo em um só lugar:
 
-Controle de sessões (agendamento, calendário, presença)
+- **Gestão de pacientes** (cadastro, histórico, evolução clínica)
+- **Controle de sessões** (agendamento, calendário, presença)
+- **Financeiro** (receitas, despesas, relatórios, inadimplência)
+- **Dashboard analítico** com indicadores em tempo real
 
-Financeiro (receitas, despesas, relatórios, inadimplência)
+## Tecnologias
 
-Dashboard analítico com indicadores em tempo real
+| Camada     | Tecnologias                                 |
+|------------|---------------------------------------------|
+| Frontend   | React, TypeScript, TailwindCSS, Framer Motion |
+| Backend    | Node.js, Express, JWT, Prisma, PostgreSQL   |
+| DevOps     | Docker, GitHub Actions, Vercel/Render       |
 
-Tecnologias
-Frontend: React, TypeScript, TailwindCSS, Framer Motion
+## Diferenciais
 
-Backend: Node.js, Express, JWT, Prisma, PostgreSQL
+- Interface premium com dark mode e design responsivo
+- Navegação fluida e feedback visual
+- Arquitetura modular, escalável e código limpo
+- Autenticação JWT e proteção de rotas
 
-DevOps: Docker, GitHub Actions, Vercel/Render
+## Futuro
 
-Diferenciais
-Interface premium com dark mode e design responsivo
-
-Navegação fluida e feedback visual
-
-Arquitetura modular, escalável e código limpo
-
-Autenticação JWT e proteção de rotas
-
-Futuro
 O projeto prevê integração com IA, Google Calendar, relatórios PDF, backup na nuvem e aplicativo mobile.
 
-🔗 Acesse: Psyche Flow
+> 🔗 **Acesse:** [Psyche Flow](https://psyche-flow-ten.vercel.app/login)
 
-Idealizado por João Castelo de Sousa Ferreira, o sistema une tecnologia moderna e cuidado com pessoas.
+---
+
+**Idealizado por João Castelo de Sousa Ferreira**  
+> *"Tecnologia também pode cuidar de pessoas."*
