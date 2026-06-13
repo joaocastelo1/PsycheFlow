@@ -3,176 +3,35 @@
 
 ## PsycheFlow
 
-Plataforma moderna para gestão de clínicas psicológicas, acompanhamento terapêutico e controle financeiro.
-Desenvolvida com foco em performance, experiência do usuário e arquitetura escalável.
-## 🚀 Acesse o Projeto
+O PsycheFlow é uma plataforma web moderna para gestão de clínicas psicológicas, reunindo em um só lugar:
 
-🔗 [Psyche Flow](https://psyche-flow-ten.vercel.app/login)
-✨ Visão Geral
+Gestão de pacientes (cadastro, histórico, evolução clínica)
 
-O PsycheFlow é um sistema completo para psicólogos e clínicas que desejam centralizar:
+Controle de sessões (agendamento, calendário, presença)
 
-👥 Gestão de pacientes
-🗓️ Controle de sessões
-💰 Financeiro
-📊 Dashboard analítico
-🔐 Segurança de dados
-⚡ Fluxos automatizados
+Financeiro (receitas, despesas, relatórios, inadimplência)
 
-A proposta do projeto é unir design moderno, produtividade clínica e tecnologia escalável em uma única aplicação.
+Dashboard analítico com indicadores em tempo real
 
-🚀 Preview do Sistema
-📊 Dashboard Inteligente
+Tecnologias
+Frontend: React, TypeScript, TailwindCSS, Framer Motion
 
-O dashboard fornece uma visão estratégica em tempo real:
+Backend: Node.js, Express, JWT, Prisma, PostgreSQL
 
-Total de pacientes
-Sessões realizadas
-Receita mensal
-Agenda do dia
-Evolução financeira
-Indicadores de desempenho
-👥 Gestão de Pacientes
+DevOps: Docker, GitHub Actions, Vercel/Render
 
-Funcionalidades:
+Diferenciais
+Interface premium com dark mode e design responsivo
 
-Cadastro completo
-Histórico terapêutico
-Observações clínicas
-Evolução do paciente
-Busca rápida e filtros
-Organização inteligente
-🗓️ Controle de Sessões
+Navegação fluida e feedback visual
 
-Recursos:
+Arquitetura modular, escalável e código limpo
 
-Agendamento de sessões
-Calendário interativo
-Controle de presença
-Status das consultas
-Histórico automático
-Integração com agenda
-💰 Financeiro Inteligente
+Autenticação JWT e proteção de rotas
 
-Controle financeiro completo:
+Futuro
+O projeto prevê integração com IA, Google Calendar, relatórios PDF, backup na nuvem e aplicativo mobile.
 
-Entradas e saídas
-Relatórios financeiros
-Receita mensal
-Controle de pagamentos
-Gráficos analíticos
-Gestão de inadimplência
-🛠️ Tecnologias Utilizadas
-Frontend
-├── React.js
-├── TypeScript
-├── TailwindCSS
-├── Framer Motion
-├── React Router
-└── Axios
+🔗 Acesse: Psyche Flow
 
-Backend
-├── Node.js
-├── Express
-├── JWT Authentication
-├── Prisma ORM
-└── PostgreSQL
-
-DevOps
-├── Docker
-├── GitHub Actions
-└── Vercel / Render
-🎯 Objetivos do Projeto
-Criar uma experiência moderna para profissionais da saúde
-Desenvolver arquitetura escalável
-Aplicar boas práticas de UI/UX
-Demonstrar habilidades Full Stack
-Simular um produto SaaS real
-⚡ Diferenciais do PsycheFlow
-🔥 Interface Premium
-Layout moderno
-Dark Mode
-Componentes reutilizáveis
-Design responsivo
-🧠 Experiência Inteligente
-Navegação fluida
-Fluxos otimizados
-Feedback visual
-Organização intuitiva
-📈 Escalabilidade
-Estrutura modular
-Código limpo
-Componentização
-Separação de responsabilidades
-🖥️ Estrutura do Projeto
-src
-├── components
-├── pages
-│   ├── Dashboard
-│   ├── Patients
-│   ├── Sessions
-│   └── Financial
-├── services
-├── hooks
-├── context
-├── routes
-└── utils
-📱 Responsividade
-
-O sistema foi desenvolvido para:
-
-💻 Desktop
-📱 Mobile
-📲 Tablets
-🔐 Segurança
-Autenticação JWT
-Rotas privadas
-Proteção de sessão
-Criptografia de senhas
-📸 Screenshots
-Dashboard
-Pacientes
-Financeiro
-📦 Instalação
-# Clone o projeto
-git clone https://github.com/seuusuario/psycheflow
-
-# Entre na pasta
-cd psycheflow
-
-# Instale as dependências
-npm install
-
-# Rode o projeto
-npm run dev
-🌍 Futuras Implementações
-🤖 IA para insights clínicos
-📅 Integração com Google Calendar
-💬 Chat interno
-📄 Geração de relatórios PDF
-☁️ Backup em nuvem
-📲 Aplicativo mobile
-👨‍💻 Desenvolvedor
-
-João Castelo de Sousa Ferreira
-
-Desenvolvedor Full Stack focado em experiências modernas, sistemas escaláveis e interfaces de alta performance.
-
-🚀 Áreas de Interesse
-Front-end moderno
-Sistemas SaaS
-UX/UI
-React Ecosystem
-Arquitetura Full Stack
-⭐ Destaque no GitHub
-
-Se este projeto te impressionou:
-
-⭐ Deixe uma estrela no repositório
-🍴 Faça um fork
-🚀 Compartilhe
-📄 Licença
-
-MIT License © 2026 PsycheFlow
-
-🧠 “Tecnologia também pode cuidar de pessoas.”
+Idealizado por João Castelo de Sousa Ferreira, o sistema une tecnologia moderna e cuidado com pessoas.
